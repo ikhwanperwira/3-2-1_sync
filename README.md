@@ -131,4 +131,4 @@ Save it as `robocopy-autosync.xml`:
 ```
 
 # HDD to GD
-Just install official Google Drive for desktop, then add `E:\vhd-sync` as sync folder. Note that this is two-way sync, no configuration in Google Drive app to make one way sync, therefore it's not intended as two-way. So, never upload any files from Google Drive sites, your PC will tries download and store it in `E:\vhd-sync` which useless, it will be overriden by SSD to HDD one-way script.
+Just install official Google Drive for desktop, then add `E:\vhd-sync` as sync folder. Note that this is two-way sync, no options in Google Drive app to make one-way sync, therefore it's not intended as two-way. So, never upload any files from Google Drive sites, your PC will tries download and store it in `E:\vhd-sync` which useless, it will be overriden by SSD to HDD one-way script.
