@@ -5,7 +5,7 @@ One-way sync from SSD to HDD and HDD to GD. Windows only.
 ![ssd-hdd-gd](https://github.com/ikhwanperwira/3-2-1_sync/assets/72451078/5a630720-af67-4d41-b6b6-d8d31a1ca26e)
 
 # Prerequisites
-* oogle Drive Desktop for Windows.
+* Google Drive Desktop for Windows.
 * SSD with drive letter `D:`, add empty folder `D:\ssd-sync` and `D:\ssd-sync\robocopy-autosync`.
 * VHD (HDD) with drive letter `E:`, add empty folder `E:\vhd-sync`.
 
