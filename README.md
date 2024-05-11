@@ -75,7 +75,7 @@ Start a program `cmd`, with arguments `/C "D:\ssd-sync\robocopy-autosync\ssd-to-
 * If the task already running, do not start a new instance (do nothing).
 ## Configuration File (Importable)
 Save it as `robocopy-autosync.xml`:
-```
+```xml
 <?xml version="1.0" encoding="UTF-16"?>
 <Task version="1.4" xmlns="http://schemas.microsoft.com/windows/2004/02/mit/task">
   <RegistrationInfo>
